@@ -35,21 +35,17 @@ h1 {
 
 .sitetitle {
   position: absolute;
-  top: 38px;
-  left: 160px;
+  top: 6px;
+  left: 130px;
   font-size: 48px;
-  border-left: 1px solid black;
-  padding-left: 4px;
 }
 
 .siteslogan {
   position: absolute;
-  top: 95px;
-  left: 160px;
+  top: 65px;
+  left: 130px;
   font-style: italic;
   color: #666;
-  border-left: 1px solid black;
-  padding-left: 4px;
 }
 
 
